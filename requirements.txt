@@ -3,3 +3,4 @@ ipyvuetify
 voila-vuetify
 bqplot
 numpy
+nbconvert==6.4.3
